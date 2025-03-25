@@ -4,7 +4,6 @@ import os
 from skimage.feature import hog
 from skimage import color 
 
-# Path to your dataset (update this accordingly)
 data_dir = r"D:\ml task\archive\signatures"
 
 # Lists to store features and labels
